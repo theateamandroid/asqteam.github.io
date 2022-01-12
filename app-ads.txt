@@ -252,3 +252,13 @@ contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 exchange.admazing.co, AM3, RESELLER
 meitu.com, 282, RESELLER
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+yandex.com, 40427798, RESELLER
+liftoff.io, 7f6945815e6, RESELLER
+loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+mintegral.com, 10038, RESELLER
+bidmachine.io, 114, RESELLER
+bidmachine.io, 67, RESELLER
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
