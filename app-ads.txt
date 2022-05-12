@@ -352,3 +352,4 @@ rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
 triplelift.com, 9979, RESELLER, 6c33edb13117fd86
 admanmedia.com, 970, DIRECT
+facebook.com, 178805079416097, DIRECT, c3e20eee3f780d68
