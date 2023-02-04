@@ -481,7 +481,8 @@ spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 video.unrulymedia.com, 170071695, RESELLER
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 Xapads.com, 117219, RESELLER
-yandex.com, 95746987, RESELLERadbility-media.com, 187, RESELLER
+yandex.com, 95746987, RESELLER
+adbility-media.com, 187, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
 conversantmedia.com, 100234, RESELLER, 03113cd04947736d 
 pubmatic.com, 156372, RESELLER, 5d62403b186f2ace
