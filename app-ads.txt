@@ -514,3 +514,5 @@ loopme.com, 10287, RESELLER
 xandr.com, 13799, RESELLER
 freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
+pangleglobal.com, 5008898, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
