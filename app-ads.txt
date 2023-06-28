@@ -1320,3 +1320,4 @@ pubmatic.com,161162,RESELLER,5d62403b186f2ace
 pubnative.net,1007349,RESELLER,d641df8625486a7b
 bematterfull.com, 22289765, RESELLER
 inmobi.com,30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
