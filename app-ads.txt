@@ -1324,3 +1324,27 @@ pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 google.com, pub-8720548726629325, RESELLER, f08c47fec0942fa0
 inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
 Xapads.com, 155860, RESELLER
+yeahmobi.com, 5135347, Reseller
+media.net, 8CUO7P3WK, RESELLER
+App-stock.com,256917,RESELLER
+videoheroes.tv, 212550, RESELLER, 064bc410192443d8
+yabbi.me, f12bd731-2eb9-487c-9260-0c350e2d312b, DIRECT
+betweendigital.com, 43713, RESELLER
+triplelift.com,13042,RESELLER, 6c33edb13117fd86
+improvedigital.com, 2162, RESELLER
+improvedigital.com, 2163, RESELLER
+Contextweb.com,562852,RESELLER,89ff185a4c4e857c
+improvedigital.com, 2178, RESELLER
+improvedigital.com, 2177, RESELLER
+triplelift.com, 12240,RESELLER, 6c33edb13117fd86
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+adform.com, 2995, RESELLER, 9f5210a2f0999e32
+thebrave.io, 1234648, RESELLER, c25b2154543746ac
+appnexus.com, 14423, RESELLER, f5ab79cb980f11d1
+iqzone.com,IQ163,RESELLER
+inmobi.com,59c7922793a3477b9419f0854d1da7e9,RESELLER,83e75a7ae333ca9d
+webeyemob.com, 70174, RESELLER
+rixengine.com, 604523, RESELLER
+pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
+Xapads.com, 163819, RESELLER
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
