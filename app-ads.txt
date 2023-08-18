@@ -1348,4 +1348,6 @@ rixengine.com, 604523, RESELLER
 pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
 Xapads.com, 163819, RESELLER
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
-pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163319, RESELLER, 5d62403b186f2aceloopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+media.net, 8CUD06Z68, RESELLER
