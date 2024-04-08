@@ -1414,7 +1414,6 @@ pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace 
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace 
 pubmatic.com, 159087, RESELLER, 5d62403b186f2ace
-xandr.com, 14082, RESELLER
 ushareit.com, LC7dc692567a127a57,RESELLER
 pubmatic.com, 163307, RESELLER, 5d62403b186f2ace
 loopme.com, 11633, RESELLER, 6c8d5f95897a5a3b
@@ -1434,7 +1433,6 @@ lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807 
 risecodes.com, 64e346c45ab8e700016b45cd, RESELLER
-xandr.com, 14082, RESELLER
 rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 vidoomy.com, 7646534, RESELLER
@@ -1457,3 +1455,16 @@ xandr.com, 15769, RESELLER
 zmaticoo.com, 5135195, RESELLER
 adsbea.com,17,RESELLER
 improvedigital.com, 2414, RESELLER
+zmaticoo.com, 5135655, RESELLER
+video.unrulymedia.com, 322585001, RESELLER
+algorix.co, 60532, RESELLER, 5b394c12fea27a1d
+contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
+gamaigroup.com, 423056, RESELLER
+media.net, 8CU12AQ1Y, RESELLER
+opera.com, pub6538436382208, RESELLER, 55a0c5fd61378de3
+rhebus.works, 9019999555, RESELLER
+sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
+thebrave.io, 1234633, RESELLER, c25b2154543746ac
+video.unrulymedia.com, 169764768, RESELLER
+video.unrulymedia.com, 322585001, RESELLER
+zmaticoo.com, 5135655, RESELLER
