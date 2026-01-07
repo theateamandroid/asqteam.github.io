@@ -2099,3 +2099,8 @@ sharethrough.com, r9b1mg7e, RESELLER, d53b998a7bd4ecd2
 thunder-monetize.com, 3692155372, RESELLER
 themediagrid.com, ws2d8n, RESELLER, 35d5010d7789b49d
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
+adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
+improvedigital.com, 2602, RESELLER
+indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
+thunder-monetize.com, 6343837988, RESELLER
+zmaticoo.com, 5135655, RESELLER
