@@ -2053,3 +2053,49 @@ spinx.biz, 1373698890, RESELLER
 video.unrulymedia.com, 475093422, RESELLER
 rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 orbrx.ai, 8000869124, RESELLER
+blueseasx.com, 203625, RESELLER
+ushareit.com, lc7dc692567a127a57, RESELLER
+lijit.com, 528770, RESELLER, fafdf38b16bf6b2b #sovrn
+risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
+toponad.com, 167c6b2c1d02bd, RESELLER, 1d49fe424a1a456d
+media.net, 8cu5l226o, RESELLER
+bidmachine.io, 896, RESELLER
+rubiconproject.com, 15854, RESELLER
+criteo.com, b-062019, RESELLER, 9fac4a4a87c2a44f
+sharethrough.com, aeb4dhxw, RESELLER, d53b998a7bd4ecd2
+pubnative.net, 1009458, RESELLER, d641df8625486a7b
+sharethrough.com, bc6d1whs, RESELLER, d53b998a7bd4ecd2
+media.net, 8cu9b72o6, RESELLER
+themediagrid.com, falino, RESELLER, 35d5010d7789b49d
+media.net, 8cu62mcq0, RESELLER
+adagio.io, 1575, RESELLER
+bidmachine.io, 1412, RESELLER
+sharethrough.com, 4322, RESELLER, d53b998a7bd4ecd2
+improvedigital.com, 2181, RESELLER
+smartadserver.com, 4237, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4237, RESELLER, d53b998a7bd4ecd2
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+taurusx.com, 80070, RESELLER
+sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
+bidmachine.io, 1371, RESELLER
+inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
+sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+media.net, 8cu12aq1y, RESELLER
+start.io, 126412094, RESELLER
+smartadserver.com, 4456, RESELLER
+33across.com, 001pg00001dtxmwian, RESELLER
+sabio.us, 100160, RESELLER, 96ed93aaa9795702
+zmaticoo.com, 5135004, RESELLER
+media.net, 8cu132ud6, RESELLER
+kidoz.net, 15648, RESELLER, a109366414b7335e
+prado.co, 15648, RESELLER
+kidoz.net, 15467, RESELLER, a109366414b7335e
+appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
+google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
+appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
+app-stock.com, 256917, RESELLER
+sharethrough.com, r9b1mg7e, RESELLER, d53b998a7bd4ecd2
+thunder-monetize.com, 3692155372, RESELLER
+themediagrid.com, ws2d8n, RESELLER, 35d5010d7789b49d
+pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
